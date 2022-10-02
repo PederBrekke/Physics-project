@@ -1,3 +1,4 @@
 # Teknisk fysikk-prosjekt av Peder Brekke, Espen Urheim og Simen Nesland
 
+Dette prosjektet ble gjort i sammenheng med faget TMA4320 ved NTNU, Trondheim. 
 I dette prosjektet skal vi utifra en enkel skipsmodell forsøke å modellere bevegelsene til en båt på vannet. Vi skal se på hvordan oppdrift, tyngdekraft, friksjon, bølger, vind og last virker på båten. Vi vil beholde nok nøyaktighet til å gi et noenlunde realistisk bilde av virkeligheten. Likevel, for å lette på mye av koden, vil modellen av både båten, men også flere av kreftene, være forenklet. Målet med dette prosjektet vil tross alt ikke være å modellere en båt eller et skip på havet nøyaktig, men heller å danne et bilde av hvilken effekt ulike fysiske fenomener har på vår skipsmodell. I tillegg vil mye av målet være å implementere ulike numeriske algoritmer for å løse differensialliknger, og se på fordelene og ulempene med de ulike metodene.
